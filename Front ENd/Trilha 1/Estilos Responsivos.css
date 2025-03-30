@@ -1,0 +1,10 @@
+.responsive-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  
+  @media (max-width: 600px) {
+    .responsive-card {
+      background-color: lightblue;
+    }
+  }
